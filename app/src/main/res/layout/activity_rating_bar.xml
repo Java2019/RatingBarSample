@@ -21,13 +21,13 @@
                 android:layout_width="60px"
                 android:layout_height="wrap_content"
                 android:text="Up"
-                android:onClick="OnClick"/>
+                android:onClick="onClick"/>
         <Button
                 android:id="@+id/button_down"
                 android:layout_width="60px"
                 android:layout_height="wrap_content"
                 android:text="Down"
-                android:onClick="OnClick"/>
+                android:onClick="onClick"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
